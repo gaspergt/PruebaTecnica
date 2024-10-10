@@ -1,0 +1,67 @@
+Preguntas: 
+
+1. Defina qué es una clase y qué es un objeto
+Clase: Es una plantilla o modelo a partir del cual se crean objetos.
+Objeto: Es una instancia de una clase.
+
+2. Defina qué es un método constructor y realice un ejemplo
+Es un método especial de una clase que se ejecuta automáticamente cuando se crea un objeto
+Ejemplo: 
+{
+	public string Nombre { get; set; }
+    public int Edad { get; set; }
+
+    public Persona(string nombre, int edad)
+    {
+        Nombre = nombre;
+        Edad = edad;
+    }
+}
+Persona persona1 = new Persona("Juan", 30);
+
+3. Defina qué es herencia
+Es cuando una clase (llamada clase hija) hereda atributos y métodos de otra clase (llamada clase padre).
+Ejemplo: 
+public class Animal
+{
+    public void HacerSonido()
+    {
+        Console.WriteLine("El animal hace un sonido.");
+    }
+}
+
+public class Perro : Animal
+{
+    public void Ladrar()
+    {
+        Console.WriteLine("El perro ladra.");
+    }
+}
+
+Perro miPerro = new Perro();
+miPerro.HacerSonido();
+miPerro.Ladrar();
+
+4. Defina qué son los modificadores de acceso y cuáles son
+Son palabras clave que controlan la visibilidad o acceso de los miembros (atributos o métodos) de una clase desde otras clases.
+public, private, protected, internal
+
+5. Diferencia entre API REST y SOAP
+REST: Es un estilo de arquitectura que usa HTTP y formato ligero como JSON
+SOAP: Es un protocolo de comunicación que usa XML
+
+6. Defina qué es encapsulación (apoyarse con un ejemplo)
+Es el concepto de ocultar los detalles internos de un objeto y permitir que solo ciertos métodos o propiedades sean accesibles.
+
+7. Qué es polimorfismo
+permite que los métodos puedan tener diferentes comportamientos según el objeto que los esté utilizando
+
+8. Defina qué es un inner join en bases de datos
+s una operación en bases de datos que combina filas de dos o más tablas donde existe una relación entre las columnas.
+
+
+9. Defina DDL, DML en base de datos y descríbalos
+Lenguaje utilizado para manipular los datos dentro de las tablas y definir la estructura de la base de datos
+
+10. Describa los tipos de datos primitivos de C#
+
