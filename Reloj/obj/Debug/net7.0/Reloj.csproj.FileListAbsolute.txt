@@ -1,0 +1,15 @@
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/Reloj/bin/Debug/net7.0/Reloj
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/Reloj/bin/Debug/net7.0/Reloj.deps.json
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/Reloj/bin/Debug/net7.0/Reloj.runtimeconfig.json
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/Reloj/bin/Debug/net7.0/Reloj.dll
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/Reloj/bin/Debug/net7.0/Reloj.pdb
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/Reloj/obj/Debug/net7.0/Reloj.csproj.AssemblyReference.cache
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/Reloj/obj/Debug/net7.0/Reloj.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/Reloj/obj/Debug/net7.0/Reloj.AssemblyInfoInputs.cache
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/Reloj/obj/Debug/net7.0/Reloj.AssemblyInfo.cs
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/Reloj/obj/Debug/net7.0/Reloj.csproj.CoreCompileInputs.cache
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/Reloj/obj/Debug/net7.0/Reloj.dll
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/Reloj/obj/Debug/net7.0/refint/Reloj.dll
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/Reloj/obj/Debug/net7.0/Reloj.pdb
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/Reloj/obj/Debug/net7.0/Reloj.genruntimeconfig.cache
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/Reloj/obj/Debug/net7.0/ref/Reloj.dll
