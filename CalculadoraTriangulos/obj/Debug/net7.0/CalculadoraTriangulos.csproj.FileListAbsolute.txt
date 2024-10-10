@@ -1,0 +1,15 @@
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/CalculadoraTriangulos/bin/Debug/net7.0/CalculadoraTriangulos
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/CalculadoraTriangulos/bin/Debug/net7.0/CalculadoraTriangulos.deps.json
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/CalculadoraTriangulos/bin/Debug/net7.0/CalculadoraTriangulos.runtimeconfig.json
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/CalculadoraTriangulos/bin/Debug/net7.0/CalculadoraTriangulos.dll
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/CalculadoraTriangulos/bin/Debug/net7.0/CalculadoraTriangulos.pdb
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/CalculadoraTriangulos/obj/Debug/net7.0/CalculadoraTriangulos.csproj.AssemblyReference.cache
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/CalculadoraTriangulos/obj/Debug/net7.0/CalculadoraTriangulos.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/CalculadoraTriangulos/obj/Debug/net7.0/CalculadoraTriangulos.AssemblyInfoInputs.cache
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/CalculadoraTriangulos/obj/Debug/net7.0/CalculadoraTriangulos.AssemblyInfo.cs
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/CalculadoraTriangulos/obj/Debug/net7.0/CalculadoraTriangulos.csproj.CoreCompileInputs.cache
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/CalculadoraTriangulos/obj/Debug/net7.0/CalculadoraTriangulos.dll
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/CalculadoraTriangulos/obj/Debug/net7.0/refint/CalculadoraTriangulos.dll
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/CalculadoraTriangulos/obj/Debug/net7.0/CalculadoraTriangulos.pdb
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/CalculadoraTriangulos/obj/Debug/net7.0/CalculadoraTriangulos.genruntimeconfig.cache
+/mnt/c/Users/LuisLima/OneDrive - Technology Product Performance S.A/Escritorio/PruebaTecnica/CalculadoraTriangulos/obj/Debug/net7.0/ref/CalculadoraTriangulos.dll
